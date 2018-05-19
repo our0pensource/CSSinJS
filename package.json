@@ -1,0 +1,26 @@
+{
+  "name": "css-in-js",
+  "description": "Addition to my talk about CSS-in-JS.",
+  "version": "0.0.0",
+  "dependencies": {
+    "styled-system": "1.0.8",
+    "styled-components": "2.2.1",
+    "react-dom": "16.0.0",
+    "react-aux": "1.0.1",
+    "react": "16.0.0",
+    "prop-types": "15.6.0",
+    "polished": "1.8.0",
+    "glamorous": "4.9.7",
+    "glamor": "2.20.40",
+    "classnames": "2.2.5"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

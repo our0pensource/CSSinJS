@@ -1,0 +1,26 @@
+{
+  "name": "CSS-in-JS",
+  "version": "1.0.0",
+  "description": "Addition to my talk about CSS-in-JS.",
+  "keywords": [
+    "polished",
+    "css-in-js",
+    "react 16",
+    "styled-components",
+    "react"
+  ],
+  "homepage": "https://codesandbox.io/s/21nx9pw8jr",
+  "main": "index.js",
+  "dependencies": {
+    "styled-system": "1.0.8",
+    "styled-components": "2.2.1",
+    "react-dom": "16.0.0",
+    "react-aux": "1.0.1",
+    "react": "16.0.0",
+    "prop-types": "15.6.0",
+    "polished": "1.8.0",
+    "glamorous": "4.9.7",
+    "glamor": "2.20.40",
+    "classnames": "2.2.5"
+  }
+}
